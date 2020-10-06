@@ -35,3 +35,5 @@ Oh how I wish to go down with the sun
 Sleeping
 Weeping
 With you
+
+some new strings
